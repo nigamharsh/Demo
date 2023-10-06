@@ -1,2 +1,3 @@
 # Demo
-This repo was made just for a learning !
+This repo was made just for learning !
+Author - Himanshu Nigam
